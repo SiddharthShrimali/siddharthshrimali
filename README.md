@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/siddharthshrimali/banner.svg)](https://contributors.gitlab.com/siddharthshrimali/USERNAME)
 <!--
 **SiddharthShrimali/siddharthshrimali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
