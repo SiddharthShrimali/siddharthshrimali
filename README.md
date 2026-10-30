@@ -8,6 +8,4 @@ Working on systems programming, and version control internals
 
 **Toolkit:** C, Java, Bash, Linux
 
-[GitLab](https://gitlab.com/siddharthshrimali) • [LinkedIn](https://linkedin.com/in/siddharthshrimali) • [Email](mailto:r.siddharth.shrimali@gmail.com)
-
-PS: My GitHub is a read-only mirror of my GitLab :)
+PS: My GitHub is a read-only mirror of my [GitLab](https://gitlab.com/siddharthshrimali) :)
