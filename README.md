@@ -1,17 +1,13 @@
-## Hi there 👋
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/siddharthshrimali/banner.svg)](https://contributors.gitlab.com/siddharthshrimali)
 
-[![GitLab Contributor Stats](https://contributors.gitlab.com/users/siddharthshrimali/banner.svg)](https://contributors.gitlab.com/siddharthshrimali/USERNAME)
-<!--
-**SiddharthShrimali/siddharthshrimali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on systems programming, and version control internals
 
-Here are some ideas to get you started:
+- Google Summer of Code '26 @ Git
+- Upcoming Summer Intern @ UBS
+- VCS, Git, Memory and Object Storage, Chess
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Toolkit:** C, Java, Bash, Linux
+
+[GitLab](https://gitlab.com/siddharthshrimali) • [LinkedIn](https://linkedin.com/in/siddharthshrimali) • [Email](mailto:r.siddharth.shrimali@gmail.com)
+
+PS: My GitHub is a read-only mirror of my GitLab :)
