@@ -9,3 +9,5 @@ Working on systems programming, and version control internals
 **Toolkit:** C, Java, Bash, Linux
 
 PS: My GitHub is a read-only mirror of my [GitLab](https://gitlab.com/siddharthshrimali) :)
+
+Signed-off-by: Siddharth Shrimali \<r.siddharth.shrimali@gmail.com\>
